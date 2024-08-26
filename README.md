@@ -10,6 +10,8 @@ Funcionalidades
   - `a` para `ai`
   - `o` para `ober`
   - `u` para `ufat`
+    ![alura](https://github.com/user-attachments/assets/6f4befb4-764b-4b61-9c66-9269fdc6f278)
+
   
 2. Descriptografar: Reverte o texto encriptado de volta ao seu formato original.
   
