@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <p id="binaryText">01001111 01100010 01100111 00100000 01000001 01101100 01110101 01110010 01100001 00100001</p>
+    </header>
+    <main>
+        <img src="images/alura.png" class="icon" alt="Logo da Alura">
+        <div class="text-container">
+            <textarea id="inputText" class="text-input" placeholder="Insira o texto aqui"></textarea>
+            <textarea id="outputText" class="text-input" placeholder="Texto exibido" readonly></textarea>
+        </div>
+        <div class="charada-container">
+            <button class="copy-button" onclick="copiarTexto()">Copiar</button>
+            <img src="images/charada.png" class="charada" alt="Imagem do Charada">
+        </div>
+        <div class="buttons-container">
+            <button class="encrypt-button" onclick="criptografar()">Criptografar</button>
+            <button class="decrypt-button" onclick="descriptografar()">Descriptografar</button>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

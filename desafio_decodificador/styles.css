@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+    background-color: black;
+    color: green;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+#binaryText {
+    font-size: 24px;
+    color: rgb(0, 196, 0);
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.icon {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 60px;
+    height: 60px;
+}
+
+.text-container {
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    gap: 20px;
+}
+
+.text-input {
+    width: 48%;
+    height: 150px;
+    padding: 10px;
+    border: 2px solid rgb(0, 196, 0);
+    background-color: black;
+    color: rgb(0, 196, 0);
+    border-radius: 5px;
+    resize: none;
+    font-size: 18px;
+}
+
+.text-input:focus {
+    outline: none;
+    border-color: rgb(0, 196, 0);
+}
+
+.charada-container {
+    position: absolute;
+    top: 40%;
+    left: 35.3%;
+    width: 500px;
+}
+
+.charada {
+    width: 100%;
+    height: auto;
+}
+
+.copy-button {
+    position: absolute;
+    left: 148%;
+    padding: 15px 30px;
+    background-color: rgb(0, 196, 0);
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 12px;
+    font-size: 16px;
+}
+
+.copy-button:hover {
+    background-color: black;
+    color: rgb(0, 196, 0);
+    border: 2px solid rgb(0, 196, 0);
+}
+
+.buttons-container {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+}
+
+.encrypt-button,
+.decrypt-button {
+    width: 200px;
+    height: 70px;
+    background-color: rgb(0, 196, 0);
+    color: black;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.encrypt-button:hover,
+.decrypt-button:hover {
+    background-color: black;
+    color: rgb(0, 196, 0);
+    border: 2px solid rgb(0, 196, 0);
+}
