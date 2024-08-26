@@ -11,9 +11,13 @@ Funcionalidades
   - `o` para `ober`
   - `u` para `ufat`
 
- ![image](https://github.com/user-attachments/assets/2b0ceb29-455f-4383-9261-f7e01180f5fd)
+![image](https://github.com/user-attachments/assets/3af3082d-964c-42f7-83fc-64453317cf0f)
+
+![image](https://github.com/user-attachments/assets/58efd463-eb15-4d13-93c8-186e1dc4b6be)
 
 2. Descriptografar: Reverte o texto encriptado de volta ao seu formato original.
+
+![image](https://github.com/user-attachments/assets/58ad9a21-6072-4b5a-a9c4-e99549cd1359)
   
 3. Copiar Texto: Copia o texto encriptado ou descriptografado para a área de transferência.
 
