@@ -10,9 +10,9 @@ Funcionalidades
   - `a` para `ai`
   - `o` para `ober`
   - `u` para `ufat`
-    ![alura](https://github.com/user-attachments/assets/6f4befb4-764b-4b61-9c66-9269fdc6f278)
 
-  
+ ![image](https://github.com/user-attachments/assets/2b0ceb29-455f-4383-9261-f7e01180f5fd)
+
 2. Descriptografar: Reverte o texto encriptado de volta ao seu formato original.
   
 3. Copiar Texto: Copia o texto encriptado ou descriptografado para a área de transferência.
